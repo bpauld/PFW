@@ -1,4 +1,4 @@
-# Acceleration of Frank-Wolf under Parallelization
+# Acceleration of Frank-Wolfe under Parallelization
 
 This code can be used to reproduce the numerical experiments from the work 
 
